@@ -1,0 +1,32 @@
+Bug Report: Issue with Login Button
+
+Summary:
+The Login button on the home page is not functioning properly.
+
+Steps to Reproduce:
+1. Navigate to the home page.
+2. Click on the Login button.
+3. Enter valid login credentials.
+4. Click the Submit button.
+
+Expected Result:
+User should be redirected to the dashboard page after successful login.
+
+Actual Result:
+Nothing happens after clicking the Submit button.
+
+Additional Information:
+- Tested on Google Chrome browser version 98.0.4758.102
+- Tried clearing browser cache and cookies, issue still persists.
+- No error messages or warnings displayed on the page.
+
+Attachments:
+None
+This TXT file includes a summary of the bug report, steps to reproduce the issue, expected and actual results, additional information and any attachments if necessary. You can modify the content to fit your specific bug report needs.
+
+
+
+
+
+Regenerate response
+
