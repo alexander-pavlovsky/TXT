@@ -1,0 +1,4 @@
+Dog name: Buddy
+Salary: $5000 per month
+Name: Alex
+Surname: Pavsky

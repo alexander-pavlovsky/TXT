@@ -1,0 +1,3 @@
+Profession: QA
+Experience: 5 years
+Education: Bachelor
